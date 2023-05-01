@@ -1,6 +1,6 @@
-#EJERCICIO FIP
+# EJERCICIO FIP
 
-##Tarea:
+## Tarea:
 - Crear un repositorio local
 - Vincularlo con github
 - Agregar como colaborador tanto al docente como al tutor
